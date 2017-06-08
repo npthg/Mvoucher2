@@ -10,7 +10,7 @@ import android.view.Display;
 import android.view.MenuItem;
 import android.webkit.WebView;
 
-import project.mvoucher.R;
+
 
 public class ReceiptViewActivity  extends AppCompatActivity
 {
