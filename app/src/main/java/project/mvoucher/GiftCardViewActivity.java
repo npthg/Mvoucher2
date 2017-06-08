@@ -24,7 +24,7 @@ import android.widget.Toast;
 import java.io.File;
 import java.util.UUID;
 
-import protect.gift_card_guard.R;
+import project.mvoucher.R;
 
 public class GiftCardViewActivity extends AppCompatActivity
 {

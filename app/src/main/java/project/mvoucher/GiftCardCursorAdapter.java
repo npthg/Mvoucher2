@@ -10,7 +10,7 @@ import android.view.ViewGroup;
 import android.widget.CursorAdapter;
 import android.widget.TextView;
 
-import protect.gift_card_guard.R;
+import project.mvoucher.R;
 
 class GiftCardCursorAdapter extends CursorAdapter
 {

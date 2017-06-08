@@ -23,7 +23,7 @@ import com.google.common.collect.ImmutableMap;
 import java.util.Calendar;
 import java.util.Map;
 
-import protect.gift_card_guard.R;
+import project.mvoucher.R;
 
 public class MainActivity extends AppCompatActivity
 {
